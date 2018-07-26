@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\bin\Release\QuadVisualizer.exe.config
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\bin\Release\QuadVisualizer.exe
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\bin\Release\QuadVisualizer.pdb
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\obj\Release\MainWindow.g.cs
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\obj\Release\App.g.cs
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\obj\Release\QuadVisualizer_MarkupCompile.cache
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\obj\Release\QuadVisualizer_MarkupCompile.lref
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\obj\Release\MainWindow.baml
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\obj\Release\QuadVisualizer.g.resources
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\obj\Release\QuadVisualizer.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\obj\Release\QuadVisualizer.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\obj\Release\QuadVisualizer.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\obj\Release\QuadVisualizer.exe
+c:\users\user\documents\visual studio 2017\Projects\QuadVisualizer\QuadVisualizer\obj\Release\QuadVisualizer.pdb
